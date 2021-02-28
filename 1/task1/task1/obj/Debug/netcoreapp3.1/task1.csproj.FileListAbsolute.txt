@@ -1,0 +1,13 @@
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+D:\studying\#\1\1\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb
+D:\studying\#\1\1\task1\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache

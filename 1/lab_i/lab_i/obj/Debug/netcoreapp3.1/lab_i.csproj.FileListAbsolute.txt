@@ -1,0 +1,12 @@
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.exe
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.deps.json
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.runtimeconfig.json
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.runtimeconfig.dev.json
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.dll
+D:\studying\#\1\1\lab_i\lab_i\bin\Debug\netcoreapp3.1\lab_i.pdb
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.AssemblyInfoInputs.cache
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.AssemblyInfo.cs
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.csproj.CoreCompileInputs.cache
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.dll
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.pdb
+D:\studying\#\1\1\lab_i\lab_i\obj\Debug\netcoreapp3.1\lab_i.genruntimeconfig.cache

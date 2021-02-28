@@ -1,0 +1,12 @@
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.exe
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.deps.json
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.runtimeconfig.json
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.runtimeconfig.dev.json
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.dll
+D:\studying\#\1\1\lab_kmv\lab_kmv\bin\Debug\netcoreapp3.1\lab_kmv.pdb
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.AssemblyInfoInputs.cache
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.AssemblyInfo.cs
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.csproj.CoreCompileInputs.cache
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.dll
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.pdb
+D:\studying\#\1\1\lab_kmv\lab_kmv\obj\Debug\netcoreapp3.1\lab_kmv.genruntimeconfig.cache

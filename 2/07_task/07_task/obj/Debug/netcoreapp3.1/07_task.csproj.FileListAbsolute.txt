@@ -1,0 +1,13 @@
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.exe
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.deps.json
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.runtimeconfig.json
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.runtimeconfig.dev.json
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.dll
+D:\studying\#\2\2\07_task\07_task\bin\Debug\netcoreapp3.1\07_task.pdb
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.csprojAssemblyReference.cache
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.AssemblyInfoInputs.cache
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.AssemblyInfo.cs
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.csproj.CoreCompileInputs.cache
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.dll
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.pdb
+D:\studying\#\2\2\07_task\07_task\obj\Debug\netcoreapp3.1\07_task.genruntimeconfig.cache

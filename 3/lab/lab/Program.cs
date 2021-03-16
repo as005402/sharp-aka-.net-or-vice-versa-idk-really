@@ -6,10 +6,9 @@ namespace lab
     {
         private double r, c, s, h, S, th;
 
-        public circle_segment(double r, double th)
+        public circle_segment()
         {
-            R = r;
-            Th = th;
+
         }
 
         public double R
@@ -71,7 +70,7 @@ namespace lab
         {
             Console.WriteLine("Enter circle segment's radius and angle (degrees):");
             string[] inp = Console.ReadLine().Split();
-            circle_segment circle = new circle_segment(Convert.ToDouble(inp[0]), Convert.ToDouble(inp[1]));
+            circle_segment circle = new circle_segment { R = Convert.ToDouble(inp[0]), Th = Convert.ToDouble(inp[1]) };
             Console.WriteLine("Length of this segment's chord: {0}", circle.get_c());
             Console.WriteLine("Length of this segment's arc: {0}", circle.get_s());
             Console.WriteLine("Height of this segment: {0}", circle.get_h());

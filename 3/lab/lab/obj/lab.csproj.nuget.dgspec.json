@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\studying\\#\\3\\3\\lab\\lab\\lab.csproj": {}
+    "D:\\studying\\#\\sharp-aka-.net-or-vice-versa-idk-really\\3\\lab\\lab\\lab.csproj": {}
   },
   "projects": {
-    "D:\\studying\\#\\3\\3\\lab\\lab\\lab.csproj": {
+    "D:\\studying\\#\\sharp-aka-.net-or-vice-versa-idk-really\\3\\lab\\lab\\lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studying\\#\\3\\3\\lab\\lab\\lab.csproj",
+        "projectUniqueName": "D:\\studying\\#\\sharp-aka-.net-or-vice-versa-idk-really\\3\\lab\\lab\\lab.csproj",
         "projectName": "lab",
-        "projectPath": "D:\\studying\\#\\3\\3\\lab\\lab\\lab.csproj",
+        "projectPath": "D:\\studying\\#\\sharp-aka-.net-or-vice-versa-idk-really\\3\\lab\\lab\\lab.csproj",
         "packagesPath": "C:\\Users\\abral\\.nuget\\packages\\",
-        "outputPath": "D:\\studying\\#\\3\\3\\lab\\lab\\obj\\",
+        "outputPath": "D:\\studying\\#\\sharp-aka-.net-or-vice-versa-idk-really\\3\\lab\\lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abral\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,7 +6,7 @@ namespace lab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter coordinates of 1st point:");
+            /*Console.WriteLine("Enter coordinates of 1st point:");
             string[] s = Console.ReadLine().Trim().Split();
             double[] v = new double[s.Length];
             for (int i = 0; i < s.Length; i++) v[i] = Convert.ToDouble(s[i]);
@@ -26,7 +26,7 @@ namespace lab
             Console.WriteLine($"\tv1 * {n} = {v1 * n}");
             Console.WriteLine($"\tv1 / {n} = {v1 / n}");
             Console.WriteLine($"\tMagnitude of v1 = {v1.magnitude()}");
-            Console.WriteLine($"\tUnit vector in the direction of v1 = {v1.unit()}");
+            Console.WriteLine($"\tUnit vector in the direction of v1 = {v1.unit()}");*/
 
             Console.WriteLine("Enter first polinomial:\t\t(Ex. -4x^2 + 12)");
             polinom p1 = new polinom(Console.ReadLine());
@@ -133,7 +133,6 @@ namespace lab
             this.s = s.Split("+");
             int z = 0;
 
-
             for (int i = 0; i < this.s.Length; i++)
             {
                 this.s[i] = this.s[i].Trim();
@@ -166,7 +165,6 @@ namespace lab
                 }
                 else
                 {
-
 
                     s1 = this.s[i].Split('-');
                     s1[0] = s1[0].Trim();
@@ -202,7 +200,7 @@ namespace lab
                         {
                             Array.Resize(ref x, x.Length + 1);
                             x[z] = new double[2];
-                            x[z][0] = Convert.ToDouble(s1[j]);
+                            x[z][0] = Convert.ToDouble(s1[j]) * -1;
                             x[z][1] = 0;
                             z++;
                         }

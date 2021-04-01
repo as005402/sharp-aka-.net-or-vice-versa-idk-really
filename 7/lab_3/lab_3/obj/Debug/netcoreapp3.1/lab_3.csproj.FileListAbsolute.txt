@@ -1,0 +1,13 @@
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.exe
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.deps.json
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.runtimeconfig.json
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.runtimeconfig.dev.json
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.dll
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\bin\Debug\netcoreapp3.1\lab_3.pdb
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.csprojAssemblyReference.cache
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.AssemblyInfoInputs.cache
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.AssemblyInfo.cs
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.csproj.CoreCompileInputs.cache
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.dll
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.pdb
+D:\studying\#\sharp-aka-.net-or-vice-versa-idk-really\7\lab_3\lab_3\obj\Debug\netcoreapp3.1\lab_3.genruntimeconfig.cache

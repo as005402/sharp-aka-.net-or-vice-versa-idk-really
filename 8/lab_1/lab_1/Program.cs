@@ -30,6 +30,23 @@ namespace lab
             t[3].add(new circle_segment(14, 10));
             t[3].add(new circle_segment(4, 20));
 
+            foreach (CollectionType<circle_segment> z in t)                     //sort
+            {
+                circle_segment tmp;
+                for (int i = 0; i < z.Length; i++)
+                {
+                    for (int j = i + 1; j < z.Length; j++)
+                    {
+                        if (z[i].CompareTo(z[j]) == 1)
+                        {
+                            tmp = z[i];
+                            z.update(z[j], i);
+                            z.update(tmp, j);
+                        }
+                    }
+                }
+            }
+
             var twoElems = t.Where(t => t.Length == 2);
             if (twoElems.Count() != 0)
             {
@@ -86,6 +103,10 @@ namespace lab
             {
                 return arr[ind];
             }
+            set
+            {
+
+            }
         }
 
         public void add(T elem, int ind)
@@ -138,6 +159,11 @@ namespace lab
                 Console.WriteLine("No such element\nTry again\n");
             }
             
+        }
+
+        public void update(T elem, int ind)
+        {
+            this.arr[ind] = elem;
         }
 
         public IEnumerator GetEnumerator()

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <line num="0">
+    <word num="0">hello</word>
+  </line>
+  <line num="1">
+    <word num="0">trying</word>
+    <word num="1">to</word>
+    <word num="2">create</word>
+    <word num="3">xml</word>
+  </line>
+  <line num="2">
+    <word num="0">hope</word>
+    <word num="1">for</word>
+    <word num="2">success</word>
+  </line>
+</root>
